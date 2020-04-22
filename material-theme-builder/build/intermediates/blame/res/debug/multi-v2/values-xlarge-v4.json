@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "/Users/dengzhihao/StudioProjects/ServeMeSystem/material-theme-builder/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
                     "source": "/Users/dengzhihao/.gradle/caches/transforms-2/files-2.1/88884d10af4db9a646d72ad4a58ccdbd/appcompat-1.1.0/res/values-xlarge-v4/values-xlarge-v4.xml",
+=======
+            "outputFile": "/Users/vikasvardhan/Documents/SemesterTwo/AdvancedTopics/serveMeSystem/material-theme-builder/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/vikasvardhan/.gradle/caches/transforms-2/files-2.1/88884d10af4db9a646d72ad4a58ccdbd/appcompat-1.1.0/res/values-xlarge-v4/values-xlarge-v4.xml",
+>>>>>>> cc4e6c2d3bda37c34d07325e67a985d24cd20669
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

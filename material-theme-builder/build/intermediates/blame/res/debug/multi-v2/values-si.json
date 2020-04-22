@@ -1,6 +1,7 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "/Users/dengzhihao/StudioProjects/ServeMeSystem/material-theme-builder/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml",
             "map": [
                 {
@@ -39,6 +40,12 @@
                 },
                 {
                     "source": "/Users/dengzhihao/.gradle/caches/transforms-2/files-2.1/10b0cb6fe19a9da032359a700cde5b9c/core-1.3.0-beta01/res/values-si/values-si.xml",
+=======
+            "outputFile": "/Users/vikasvardhan/Documents/SemesterTwo/AdvancedTopics/serveMeSystem/material-theme-builder/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml",
+            "map": [
+                {
+                    "source": "/Users/vikasvardhan/.gradle/caches/transforms-2/files-2.1/10b0cb6fe19a9da032359a700cde5b9c/core-1.3.0-beta01/res/values-si/values-si.xml",
+>>>>>>> cc4e6c2d3bda37c34d07325e67a985d24cd20669
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -55,7 +62,45 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "/Users/dengzhihao/.gradle/caches/transforms-2/files-2.1/1165799916a00c8946d9c53ee751d06d/preference-1.1.0-rc01/res/values-si/values-si.xml",
+=======
+                    "source": "/Users/vikasvardhan/.gradle/caches/transforms-2/files-2.1/88884d10af4db9a646d72ad4a58ccdbd/appcompat-1.1.0/res/values-si/values-si.xml",
+>>>>>>> cc4e6c2d3bda37c34d07325e67a985d24cd20669
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "105,181,264,338,481,650,742",
+                        "endColumns": "75,82,73,142,168,91,86",
+                        "endOffsets": "176,259,333,476,645,737,824"
+                    },
+                    "to": {
+                        "startLines": "29,30,33,34,37,38,39",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2821,2897,3208,3282,3607,3776,3868",
+                        "endColumns": "75,82,73,142,168,91,86",
+                        "endOffsets": "2892,2975,3277,3420,3771,3863,3950"
+                    }
+                },
+                {
+                    "source": "/Users/vikasvardhan/.gradle/caches/transforms-2/files-2.1/f2fab6fe50fc6f193fa0edbc022cfa3a/navigation-ui-2.2.1/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,166",
+                        "endColumns": "110,116",
+                        "endOffsets": "161,278"
+                    },
+                    "to": {
+                        "startLines": "31,32",
+                        "startColumns": "4,4",
+                        "startOffsets": "2980,3091",
+                        "endColumns": "110,116",
+                        "endOffsets": "3086,3203"
+                    }
+                },
+                {
+                    "source": "/Users/vikasvardhan/.gradle/caches/transforms-2/files-2.1/1165799916a00c8946d9c53ee751d06d/preference-1.1.0-rc01/res/values-si/values-si.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

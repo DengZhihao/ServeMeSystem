@@ -1,10 +1,27 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "/Users/dengzhihao/StudioProjects/ServeMeSystem/material-theme-builder/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "/Users/dengzhihao/.gradle/caches/transforms-2/files-2.1/b9476973831cb08950fe344797942a1d/media-1.0.0/res/values-v24/values-v24.xml",
+=======
+            "outputFile": "/Users/vikasvardhan/Documents/SemesterTwo/AdvancedTopics/serveMeSystem/material-theme-builder/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/vikasvardhan/.gradle/caches/transforms-2/files-2.1/88884d10af4db9a646d72ad4a58ccdbd/appcompat-1.1.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "/Users/vikasvardhan/.gradle/caches/transforms-2/files-2.1/b9476973831cb08950fe344797942a1d/media-1.0.0/res/values-v24/values-v24.xml",
+>>>>>>> cc4e6c2d3bda37c34d07325e67a985d24cd20669
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -19,6 +36,7 @@
                         "endColumns": "65,60,65,66",
                         "endOffsets": "408,469,535,602"
                     }
+<<<<<<< HEAD
                 },
                 {
                     "source": "/Users/dengzhihao/.gradle/caches/transforms-2/files-2.1/88884d10af4db9a646d72ad4a58ccdbd/appcompat-1.1.0/res/values-v24/values-v24.xml",
@@ -29,6 +47,8 @@
                         "endColumns": "156,134",
                         "endOffsets": "207,342"
                     }
+=======
+>>>>>>> cc4e6c2d3bda37c34d07325e67a985d24cd20669
                 }
             ]
         }
